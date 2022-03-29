@@ -1,1 +1,1 @@
-this is the repo with code snippts for Dislove verification
+this is the repo with code snippets for Dislove verification
